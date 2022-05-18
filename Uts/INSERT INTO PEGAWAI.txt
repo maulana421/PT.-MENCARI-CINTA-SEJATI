@@ -1,0 +1,3 @@
+INSERT INTO pegawai('12345678910','Yuxorn','Mencari cintamu yang hilang')
+INSERT INTO pegawai('23456789101','Tomas','S')
+INSERT INTO pegawai('34567891012','Yuxorn','Mencari cintamu yang hilang')
